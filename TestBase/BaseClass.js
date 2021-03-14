@@ -95,6 +95,7 @@ exports.config = {
             {userName: 'MoreThan60DayFN.MoreThan60DayLN', passWord: 'Test123!'},//31 scorebaselines
             {userName: 'LesThan60FN.LesThan60LN', passWord: 'Test123!'},//32
             {userName: 'RnwAfter60FN.RnwAfter60LN', passWord: 'Test123!'},//33
+            {userName: 'RnwAfter60FN.RnwAfter60LN', passWord: 'Test123!'},//33            
         ],
 
         staffLogin:[
@@ -107,11 +108,6 @@ exports.config = {
             {userName:'itestbdi.908',password:`Test123!`},
             {userName:'StaffTest0123',passWord:`Test123!`, email: 'automatebdi3+034@gmail.com'},
             {userName: `itest.789`, passWord: `Test123!`},
-            {userName: `BDI.wrongUser`,  passWord: `Test123!`},
-            {userName: `TestStaff.TestStaff3351`,  passWord: `Test123!`, email:'automatebdi3+6647@gmail.com'},
-            {userName: `Staff.AllLocations`,  passWord: `Test123!`, email:'automatebdi3+512212@gmail.com'},
-            {userName: `Staff.User123`,  passWord: `Test123!`, email:'automatebdi3+012345@gmail.com'},
-            {userName: `Staff.User002`,  passWord: `Test123!`, email:'automatebdi3+001@gmail.com'},
             {userName: `Staff.User003`,  passWord: `Test123!`, email:'automatebdi3+003@gmail.com'},
             {userName:'Shamvicky3952',password:'Test123!'},
             {userName: `Staff.ForDevBaselines9670`,  passWord: `Test123!`, email:'wjivautomation+8484@gmail.com'},
